@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgb(247, 247, 247);
+}
+.clr{
+    clear: both;
+}
+.jumbotron{
+    color: #ffff;
+    background-color: #232F3E;
+}
+.list ul{
+    list-style: none;
+    line-height: 2rem;
+    letter-spacing: 0.05rem;
+}
+.btn{
+    margin: 5px;
+}
+.heart{
+    color: red;
+}
+.Footer{
+    padding: 10px;
+   color: #ffff;
+   font-size: 13px;
+   background-color: #232F3E;
+}
